@@ -1,2 +1,6 @@
 config.bat
 node_modules
+
+# Environment files (re-added after malware removal)
+.env
+.env.local
